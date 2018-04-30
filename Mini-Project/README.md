@@ -2,7 +2,7 @@
 
 Embedded System Mini-Project
 2018.04.02 Submitted
-
+YOUTUBE MOV URL : https://youtu.be/2vypEp2Vwi8 동영상은 유투브로도 업로드하였습니다.
 Project Title : Danger Bahavior Control on the Traffic System
 
 Project Outline :
@@ -30,4 +30,3 @@ Project Code explains
     red light turned on with car's green light on
     green light turned on with car's red light on
   when ultra sensor detect thing in 10cm range, it calls playsound function
-  
