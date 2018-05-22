@@ -24,4 +24,4 @@
 #### 데이터 베이스에 값이 저장된 화면
 ![report_01](./images/report_01.png)
 #### 생산자와 소비자가 값을 공유변수에 넣고 가져가는 화면
-![report_02](./images/report_02.PNG)
+![report_02](./images/report_02.png)
