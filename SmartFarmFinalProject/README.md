@@ -2,3 +2,4 @@
 
 ## 스마트팜 최종 프로젝트
 ![report_01](./image/report_01.png)
+![report_02](./image/report_02.png)
